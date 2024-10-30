@@ -10,11 +10,11 @@
 
 ### Add Eyes, Nose, and Mouth (draw_eyes_nose_frown function):
 
-Eyes: Two yellow circles are drawn for the eyes, positioned symmetrically on the pumpkin.
-Nose: A yellow triangle is drawn as the pumpkin's nose just below the eyes.
-Mouth (Frown): A curved frown is created using a Bezier curve for a Halloween expression, adding a whimsical touch.
+- Eyes: Two yellow circles are drawn for the eyes, positioned symmetrically on the pumpkin.
+- Nose: A yellow triangle is drawn as the pumpkin's nose just below the eyes.
+- Mouth (Frown): A curved frown is created using a Bezier curve for a Halloween expression, adding a whimsical touch.
 
 ### Add Longitudinal Lines (draw_longitudinal_lines function):
 
-Dark gray lines represent longitudinal arcs around the pumpkin, adding a globe-like appearance.
-These lines are drawn from the top to the bottom of the sphere (like meridians) at intervals around the circle.
+- Dark gray lines represent longitudinal arcs around the pumpkin, adding a globe-like appearance.
+- These lines are drawn from the top to the bottom of the sphere (like meridians) at intervals around the circle.
