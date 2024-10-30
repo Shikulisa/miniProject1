@@ -73,3 +73,6 @@ draw_pumpkin(context, WIDTH // 2, HEIGHT // 2, 200)
 surface.write_to_png("3d_pumpkin_longitudinal.png")
 
 print("3D glowing pumpkin image with longitudinal ridges created!")
+
+
+#final draft
